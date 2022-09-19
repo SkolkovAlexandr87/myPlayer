@@ -1,0 +1,19 @@
+.progress-bar {
+  background-color: #dadada;
+  width: 60%;
+  height: 6px;
+  border-radius: 3px;
+  position: relative;
+}
+
+.ball-progress {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: #616161;
+  box-shadow: 0 0 2px rgba(40,40,40,.9);
+  position: absolute;
+  top: 50%;
+  left: -6px;
+  transform: translateY(-50%);
+}

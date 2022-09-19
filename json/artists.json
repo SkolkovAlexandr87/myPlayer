@@ -1,0 +1,82 @@
+[  
+  {
+    "title": "Андрей Губин",
+    "picture": "sounds/andrey_gubin/image/andrey_gubin.jpg",
+    "songs": [
+        {
+          "title": "Танцы",
+          "link": "sounds/andrey_gubin/Andrejj_Gubin_-_Tancy.mp3"
+        },
+        {
+            "title": "Мальчик-бродяга",
+            "link": "sounds/andrey_gubin/Andrejj_Gubin_-_Malchik-brodyaga.mp3"
+        },
+        {
+            "title": "Зима-холода",
+            "link": "sounds/andrey_gubin/Andrejj_Gubin_-_Zima-kholoda.mp3"
+        },
+        {
+            "title": "Девушки как звёзды",
+            "link": "sounds/andrey_gubin/Andrejj_Gubin_-_Devushki_kak_zvjozdy.mp3"
+        },
+        {
+            "title": "Убегает лето",
+            "link": "sounds/andrey_gubin/Andrejj_Gubin_-_Ubegaet_leto.mp3"
+        }
+      ]
+
+  },
+  {
+    "title": "Руки Вверх",
+    "picture": "sounds/handsUp/image/hands_up.jpg",
+    "songs": [
+        {
+          "title": "Чужие губы",
+          "link": "sounds/handsUp/Ruki_Vverkh_-_CHuzhie_guby.mp3"
+        },
+        { 
+          "title": "Крошка моя",
+          "link": "sounds/handsUp/Ruki_Vverkh_-_Kroshka_moya.mp3"
+        },
+        {
+          "title": "Он тебя целует",
+          "link": "sounds/handsUp/Ruki_Vverkh_-_On_tebya_celuet.mp3"
+        },
+        {
+          "title": "Алёшка",
+          "link": "sounds/handsUp/Ruki_Vverkh_-_Aljoshka.mp3"
+        },
+        {
+          "title": "Ай-яй-яй",
+          "link": "sounds/handsUp/VAVAN_Ruki_Vverkh_-_Ajj-yajj-yajj.mp3"
+        } 
+        ]
+  },
+  {
+    "title": "Artik & Asti",
+    "picture": "sounds/artik-asti/image/artik-asti.jpg",
+    "songs": [
+        {
+          "title": "Чувства",
+            "link": "sounds/artik-asti/Artik_Asti_-_CHuvstva.mp3"
+        },
+        {
+            "title": "Девочка танцуй",
+            "link": "sounds/artik-asti/Artik_Asti_-_Devochka_tancujj.mp3"
+        },
+        {
+            "title": "Полечу за тобой",
+            "link": "sounds/artik-asti/Artik_Asti_Ruki_Vverkh_-_Polechu_za_toboyu.mp3"
+        },
+        {
+            "title": "Гармония",
+            "link": "sounds/artik-asti/Artik_Asti_-_Garmoniya.mp3"
+        },
+        {
+            "title": "Истеричка",
+            "link": "sounds/artik-asti/Artik_Asti_-_Isterichka.mp3"
+        }
+        ]
+          
+    } 
+]
